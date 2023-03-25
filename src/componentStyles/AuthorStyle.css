@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+.cont {
+    display: grid;
+    place-content: center;
+    padding-bottom: 135px;
+}
+
+.card {
+    align-items: center;
+    align-content: center;
+}
