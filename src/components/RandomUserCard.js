@@ -50,7 +50,7 @@ export const RandomUserCard = (props) => {
 
     return (
         <div className='container'>
-            <section className="section about-section gray-bg pt-3" id="about">
+            <section className="section about-section gray-bg pt-5" id="about">
                 <div>
                     <div className="row align-items-center flex-row-reverse">
                         <div className="col-lg-6">
